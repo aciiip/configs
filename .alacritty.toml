@@ -1,5 +1,6 @@
 [window]
 opacity = 0.95
+startup_mode = "Maximized"
 
 [window.dimensions]
 columns = 94
@@ -17,4 +18,4 @@ blink_timeout = 0
 
 [cursor.style]
 shape = "Block"
-blinking = "Always"
+blinking = "On"
